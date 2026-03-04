@@ -6,6 +6,9 @@ To run this project you will need to create ".env.local" file in your main(root)
 OPENWEATHER_API_KEY=your_api_key_here
 (yes dont put api key inside of quotes)
 
+Please Grab the Keys From : 
+https://openweathermap.org/
+
 ## How to Run the Server ? 
 
 First, run the development server:
